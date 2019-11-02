@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Calculator
+//  alert
 //
-//  Created by english on 2019-10-09.
-//  Copyright © 2019 english. All rights reserved.
+//  Created by english on 2019-10-30.
+//  Copyright © 2019 god. All rights reserved.
 //
 
 import UIKit

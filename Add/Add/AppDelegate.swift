@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Calculator
+//  Add
 //
-//  Created by english on 2019-10-09.
-//  Copyright © 2019 english. All rights reserved.
+//  Created by english on 2019-10-25.
+//  Copyright © 2019 Moyses. All rights reserved.
 //
 
 import UIKit
